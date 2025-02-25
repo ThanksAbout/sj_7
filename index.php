@@ -31,7 +31,7 @@
     foreach($data as  $name => $age){
         echo "Meno : " . $name . " Vek : " . $age . "<br>";
     }
-
+    // komentar
     
     
     
